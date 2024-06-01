@@ -1,5 +1,6 @@
 # instagram-list
-# İnstagram Follower- Following List
+
+#  Instagram Followers - Follow List and comparison
 
 
 ## How is it working
